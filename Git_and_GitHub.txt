@@ -1,0 +1,33 @@
+                                                          Git & GitHub Tutorial
+                        -------------------------------------------------------------------------------------------
+
+A. Instructions done in the terminal
+   ---------------------------------
+
+1. Create a new folder/directory on your computer: mkdir Exercise
+
+2. Change folder/directory: cd Exercise
+
+3. git init
+
+4. git add .
+
+5. git commit -m "first commit"
+
+6. git branch -M main
+
+7. git remote add origin https://github.com/rovichok/exercise1.git
+
+8. git push -u origin main
+
+
+B. Instruction done in GitHub
+   --------------------------
+
+a. Create a new repository on GitHub: exercise1.github.io
+
+b. Add the repository above as a remote repository to our local repository as follows:
+   - Click the green button found in the GitHub repository called "Code".
+   - Go To terminal and Copy the URL "https://github.com/rovichok/exercise1.github.io.git", see point 7. above.
+
+https://github.com/w3schools-test/w3schools-test.github.io
